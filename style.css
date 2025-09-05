@@ -1,0 +1,129 @@
+body{
+    background-color: #f3e5d8;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.white{
+    background-color: white;
+    height: 100%;
+    width: 600px;
+    border-radius: 10px;
+    padding: 20px;
+    /* padding-left: 20px; */
+    
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.image img{
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+.simple{
+    margin-left: 20px;
+}
+.simple p{
+    font-size: 14px;
+    line-height: 1.6;
+    color: #8d8985;
+    font-weight: 700;
+}
+.preparation{
+    margin-left: 40px;
+    background-color: #fff7fc;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    /* display: flex;
+    flex-direction: column;
+    gap: 5px; */
+}
+.preparation ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: -10px;
+}
+.preparation h4{
+    color: #602942;
+    font-size: 20px;
+}
+.preparation ul li::marker{
+    color: #602942;
+}
+.ingredient{
+    margin-left: 20px;
+}
+.ingredient h3{
+    color: #825137;
+    font-size: 30px;
+}
+/* .ingredient li{
+    margin-right: 30px;
+} */
+.ingredient ul li::marker{
+    color: #825137;
+}
+.ingredient ul{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: -18px;
+}
+.ingredient li{
+    color: #8f6f45;
+}
+.instruction{
+    margin-left: 20px;
+   
+}
+.instruction h4{
+    color: #825137;
+    font-size: 30px;
+}
+.instruction span{
+    line-height: 1.6;
+}
+.instruction b{
+    margin-left: 10px;
+    color: #746f69;
+}
+.instruction span{
+    color: #928f8c;
+    font-weight: 600;
+}
+.instruction ol li::marker{
+    color: #825137;
+}
+.instruction ol{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: -20px;
+}
+.nutrition{
+    margin-left: 20px;
+}
+.nutrition h3{
+    color: #825137;
+    font-size: 30px;
+}
+.nutrition p{
+    color:  #837863;
+    font-weight: 500;
+}
+.text2{
+    display: flex;
+    justify-content: space-around;
+}
+.underline{
+    border: 1px solid grey;
+}
+.nutrition .container .text2 .gram{
+    color: #825137;
+}
