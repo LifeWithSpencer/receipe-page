@@ -9,7 +9,7 @@ body{
     height: 100%;
     width: 600px;
     border-radius: 10px;
-    padding: 20px;
+    padding: 30px;
     /* padding-left: 20px; */
     
 }
@@ -24,7 +24,7 @@ body{
     
 }
 .simple{
-    margin-left: 20px;
+    padding-left: 40px;
 }
 .simple p{
     font-size: 14px;
@@ -35,7 +35,7 @@ body{
 .preparation{
     margin-left: 40px;
     background-color: #fff7fc;
-    padding-left: 20px;
+    padding-left: 30px;
     padding-bottom: 10px;
     padding-top: 10px;
     border-radius: 10px;
@@ -57,7 +57,7 @@ body{
     color: #602942;
 }
 .ingredient{
-    margin-left: 20px;
+    padding-left: 40px;
 }
 .ingredient h3{
     color: #825137;
@@ -79,7 +79,7 @@ body{
     color: #8f6f45;
 }
 .instruction{
-    margin-left: 20px;
+    padding-left: 40px;
    
 }
 .instruction h4{
@@ -107,7 +107,7 @@ body{
     margin-top: -20px;
 }
 .nutrition{
-    margin-left: 20px;
+    padding-left: 40px;
 }
 .nutrition h3{
     color: #825137;
