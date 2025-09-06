@@ -23,6 +23,7 @@ body{
 .image{
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 .image img{
     width: 400px;
