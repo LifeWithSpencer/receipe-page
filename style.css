@@ -15,6 +15,11 @@ body{
     /* justify-content: center; */
     
 }
+.wrapper{
+    width: "100%";
+    max-width: 85%;
+    margin: 0 auto;
+}
 .image{
     display: flex;
     justify-content: center;
