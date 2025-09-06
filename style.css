@@ -8,7 +8,7 @@ body{
     display: flex;
     flex-direction: column;
     max-width: 100%;
-    width: 500px;
+    width: 800px;
     border-radius: 10px;
     padding: 20px;
     margin-top: 50px;
@@ -44,7 +44,7 @@ img {
     color: #602942;
 }
 .ingredient{
-    padding: 30px;
+    padding: 20px;
     padding-top:0;
 }
 .ingredient h3{
