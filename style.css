@@ -20,18 +20,26 @@ body{
     max-width: 85%;
     margin: 0 auto;
 }
-.image{
-    display: flex;
-    justify-content: center;
-    /* width: 60%; */
+.image {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;     /* centers vertically if container has height */
+  margin-top: 20px;
 }
-.image img{
+
+.image img {
+    /* max-width: 100%; */
+  width: 500px;
+  border-radius: 20px;
+}
+
+/* .image img{
     width: 500px;
-    border-radius: 10px;
+    border-radius: 20px;
     margin-top: 20px;
-    /* padding-left: 30px; */
+    padding-left: 30px;
     
-}
+} */
 .simple{
     padding: 30px;
     padding-bottom: 10px;
