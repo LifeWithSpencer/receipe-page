@@ -44,7 +44,7 @@ img {
     color: #602942;
 }
 .ingredient{
-    padding: 20px;
+    padding: 10px;
     padding-top:0;
 }
 .ingredient h3{
@@ -67,7 +67,7 @@ img {
     color: #8f6f45;
 }
 .instruction{
-    padding: 30px;
+    padding: 10px;
     padding-top: 0;
    
 }
@@ -96,7 +96,7 @@ img {
     margin-top: -20px;
 }
 .nutrition{
-    padding: 30px;
+    padding: 10px;
 }
 .nutrition h3{
     color: #825137;
