@@ -116,7 +116,6 @@ img {
 .nutrition .container .text2 .gram{
     color: #825137;
 }
-li, ul::marker{
-    margin-right: 30px;
-    list-style-position: inside;
+ol, ul{
+    padding-left: 20px;
 }
